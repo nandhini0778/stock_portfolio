@@ -42,8 +42,6 @@ It provides a simple way to record and view stock holdings without using complex
 ## Installation
 
 Clone the repository:
-
-```bash
 git clone  https://github.com/nandhini0778/stock_portfolio.git
 
 ----
