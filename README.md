@@ -44,4 +44,4 @@ It provides a simple way to record and view stock holdings without using complex
 Clone the repository:
 
 ```bash
-git clone https://github.com/Niriksha12-mpm/stock-market-portfolio.git
+git clone  https://github.com/nandhini0778/stock_portfolio.git
