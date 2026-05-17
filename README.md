@@ -45,3 +45,16 @@ Clone the repository:
 
 ```bash
 git clone  https://github.com/nandhini0778/stock_portfolio.git
+
+----
+
+## Output
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1e2d24fc-f9b9-45c4-ad5d-2a67de10721a" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/754328c9-1124-46d1-9492-d18bd2f3e3d7" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/28b2ef20-4050-44c6-9946-ae34aa471e5f" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/13ab806d-effb-4a95-b69f-b6f87dd20a28" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/caa7ee63-72a1-4e7d-959f-769b35561a36" />
+
+
+
